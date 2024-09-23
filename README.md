@@ -1,3 +1,3 @@
 - 👋 Hi, I’m soumaya
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently teatching python
